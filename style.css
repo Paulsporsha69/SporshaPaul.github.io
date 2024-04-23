@@ -17,3 +17,15 @@ background-color: #262B37;
   .about-container{
     background-color: #c09e9e;
   }
+  .education-container{
+    background-color: #EEEEEE;
+  }
+  .redtype-color{
+ color: rgb(229, 157, 24);
+  }
+  .circle{
+    background-color: orange;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+  }
